@@ -1,0 +1,3 @@
+[submodule "patchwork-plusplus-ros"]
+	path = patchwork-plusplus-ros
+	url = git@github.com:juliangaal/patchwork-plusplus-ros.git
